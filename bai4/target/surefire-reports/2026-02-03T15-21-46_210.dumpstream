@@ -1,0 +1,5 @@
+# Created at 2026-02-03T15:21:46.337
+Boot Manifest-JAR contains absolute paths in classpath 'e:\kiemthulab6\bai4\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

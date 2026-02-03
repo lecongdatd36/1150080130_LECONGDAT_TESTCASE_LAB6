@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "bai1/src/main/java",
+        "bai1/src/test/java",
+        "bai2/src/main/java",
+        "bai2/src/test/java"
+    ],
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.import.maven.enabled": true
+}
